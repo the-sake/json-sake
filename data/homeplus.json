@@ -1,0 +1,41 @@
+[
+  {
+    "Product": "하쿠시카 쥰마이 팩 Hakushika Junmai Pack",
+    "Country": "일본",
+    "Category": "청주",
+    "Importation": "(주)젠니혼주류",
+    "Alcohol": 14.7,
+    "Volume": 900,
+    "Company": "Kuromatsu Hakushika Tatsuuma-Honke Brewing CO.LTD",
+    "Ingredients": ["쌀", "쌀국", "정제수"],
+    "Description": "국내에서 가장 많은 사랑을 받고 있는 쥰마이등급 사케로 백미를 정성스럽게 쪄내어 하쿠시카의 전통적인 양조기술로 빚은, 담백하고 깔끔한 맛이 특징인 제품입니다.",
+    "Price": 14900,
+    "PriceHistory": [
+      {
+        "Date": "2017/09/26",
+        "Price": 14900
+      }
+    ],
+    "Type": "쥰마이",
+    "RicePolishingRate": 60,
+    "NihonShudo": "+2",
+    "Acidity": 1.4
+  },
+  {
+    "Product": "도오호 쥬락 긴죠 Tohoshuraku GINJO",
+    "Country": "일본",
+    "Category": "청주",
+    "Importation": "(주)사케코리아",
+    "Alcohol": 13.8,
+    "Volume": 720,
+    "Company": "Hokkan Sake Brewing CO.,LTD.",
+    "Ingredients": ["백미", "쌀국", "주정(양조알콜)", "정제수"],
+    "Price": 26800,
+    "PriceHistory": [
+      {
+        "Date": "2017/09/23",
+        "Price": 26800
+      }
+    ]
+  }
+]
