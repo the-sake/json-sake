@@ -41,3 +41,31 @@
   "Acidity": 1.4
 }
 ```
+
+```json
+{
+  // 등급
+  "Type": "쥰마이",
+  // 한자
+  "Kanji": "純米",
+  // 일본어
+  "Furigana": "じゅんまい",
+  // 의미
+  "Mean": "순미",
+  // HTML tag
+  "Ruby": [
+    {
+      "Kanji": "純",
+      "Furigana": "じゅん",
+      "Mean": "순수할 순"
+    },
+    {
+      "Kanji": "米",
+      "Furigana": "まい",
+      "Mean": "쌀 미"
+    }
+  ],
+  // 정미비율 (%)
+  "RicePolishingRate": 50
+}
+```
