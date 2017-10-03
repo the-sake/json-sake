@@ -65,7 +65,9 @@
       "Mean": "쌀 미"
     }
   ],
-  // 정미비율 (%)
-  "RicePolishingRate": 50
+  // 정미비율
+  "RicePolishingRate": "규제없음",
+  // 가격
+  "Price": "1,700 ~ 3,600円"
 }
 ```

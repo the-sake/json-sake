@@ -1,13 +1,222 @@
 [
   {
-    "": "純米",
-    "": "本醸造",
-    "": "特別 純米",
-    "": "特別 本醸造",
-    "": "純米 吟醸",
-    "": "吟醸",
-    "": "純米 大吟醸",
-    "": "大吟醸",
-    "": "普通酒"
+    "Type": "쥰마이",
+    "Kanji": "純米",
+    "Furigana": "じゅんまい",
+    "Mean": "순미",
+    "Ruby": [
+      {
+        "Kanji": "純",
+        "Furigana": "じゅん",
+        "Mean": "순수할 순"
+      },
+      {
+        "Kanji": "米",
+        "Furigana": "まい",
+        "Mean": "쌀 미"
+      }
+    ],
+    "RicePolishingRate": "규제없음",
+    "Price": "1,700円 ~ 3,600円"
+  },
+  {
+    "Type": "토쿠베츠준마이",
+    "Kanji": "特別純米",
+    "Furigana": "とくべつじゅんまい",
+    "Mean": "특별순미",
+    "Ruby": [
+      {
+        "Kanji": "純",
+        "Furigana": "とく",
+        "Mean": "특별할 특"
+      },
+      {
+        "Kanji": "別",
+        "Furigana": "べつ",
+        "Mean": "다를 별"
+      },
+      {
+        "Kanji": "純",
+        "Furigana": "じゅん",
+        "Mean": "순수할 순"
+      },
+      {
+        "Kanji": "米",
+        "Furigana": "まい",
+        "Mean": "쌀 미"
+      }
+    ],
+    "RicePolishingRate": "정미보합 60% 이하",
+    "Price": "1,900円 ~ 4,000円"
+  },
+  {
+    "Type": "준마이긴죠",
+    "Kanji": "純米吟醸",
+    "Furigana": "じゅんまいぎんじょう",
+    "Mean": "순미음양",
+    "Ruby": [
+      {
+        "Kanji": "純",
+        "Furigana": "じゅん",
+        "Mean": "순수할 순"
+      },
+      {
+        "Kanji": "米",
+        "Furigana": "まい",
+        "Mean": "쌀 미"
+      },
+      {
+        "Kanji": "吟",
+        "Furigana": "ぎん",
+        "Mean": "읊을 음"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      }
+    ],
+    "RicePolishingRate": "정미보합 60% 이하",
+    "Price": "2,200円 ~ 5,500円"
+  },
+  {
+    "Type": "준마이다이긴죠",
+    "Kanji": "純米大吟醸",
+    "Furigana": "じゅんまいだいぎんじょう",
+    "Mean": "순미대음양",
+    "Ruby": [
+      {
+        "Kanji": "純",
+        "Furigana": "じゅん",
+        "Mean": "순수할 순"
+      },
+      {
+        "Kanji": "米",
+        "Furigana": "まい",
+        "Mean": "쌀 미"
+      },
+      {
+        "Kanji": "大",
+        "Furigana": "だい",
+        "Mean": "큰 대"
+      },
+      {
+        "Kanji": "吟",
+        "Furigana": "ぎん",
+        "Mean": "읊을 음"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      }
+    ],
+    "RicePolishingRate": "정미보합 50% 이하",
+    "Price": "2,500円 ~"
+  },
+  {
+    "Type": "혼죠조",
+    "Kanji": "本醸造",
+    "Furigana": "ほんじょうぞう",
+    "Mean": "본양조",
+    "Ruby": [
+      {
+        "Kanji": "本",
+        "Furigana": "ほん",
+        "Mean": "근본 본"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      },
+      {
+        "Kanji": "造",
+        "Furigana": "ぞう",
+        "Mean": "지을 조"
+      }
+    ],
+    "RicePolishingRate": "정미보합 70% 이하",
+    "Price": "1,200円 ~ 3,500円"
+  },
+  {
+    "Type": "토쿠베츠혼죠조",
+    "Kanji": "特別本醸造",
+    "Furigana": "とくべつほんじょうぞう",
+    "Mean": "특별순미",
+    "Ruby": [
+      {
+        "Kanji": "純",
+        "Furigana": "とく",
+        "Mean": "특별할 특"
+      },
+      {
+        "Kanji": "別",
+        "Furigana": "べつ",
+        "Mean": "다를 별"
+      },
+      {
+        "Kanji": "本",
+        "Furigana": "ほん",
+        "Mean": "근본 본"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      },
+      {
+        "Kanji": "造",
+        "Furigana": "ぞう",
+        "Mean": "지을 조"
+      }
+    ],
+    "RicePolishingRate": "정미보합 60% 이하",
+    "Price": "1,600円 ~ 3,500円"
+  },
+  {
+    "Type": "긴죠",
+    "Kanji": "吟醸",
+    "Furigana": "ぎんじょう",
+    "Mean": "음양",
+    "Ruby": [
+      {
+        "Kanji": "吟",
+        "Furigana": "ぎん",
+        "Mean": "읊을 음"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      }
+    ],
+    "RicePolishingRate": "정미보합 60% 이하",
+    "Price": "2,000円 ~ 5,000円"
+  },
+  {
+    "Type": "다이긴죠",
+    "Kanji": "大吟醸",
+    "Furigana": "だいぎんじょう",
+    "Mean": "대음양",
+    "Ruby": [
+      {
+        "Kanji": "大",
+        "Furigana": "だい",
+        "Mean": "큰 대"
+      },
+      {
+        "Kanji": "吟",
+        "Furigana": "ぎん",
+        "Mean": "읊을 음"
+      },
+      {
+        "Kanji": "醸",
+        "Furigana": "じょう",
+        "Mean": "술 빚을 양"
+      }
+    ],
+    "RicePolishingRate": "정미보합 50% 이하",
+    "Price": "2,500円 ~"
   }
 ]
