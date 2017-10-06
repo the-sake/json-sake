@@ -1,0 +1,13 @@
+{
+  "name": "json-sake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/the-sake/json-sake.git",
+  "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "html2json": "^1.0.2",
+    "jsonfile": "^4.0.0"
+  }
+}
