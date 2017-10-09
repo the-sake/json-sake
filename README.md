@@ -44,7 +44,7 @@
   "Type": "쥰마이",
   // 정미비율 (%)
   "RicePolishingRate": 60,
-  // 일본주도 (+, -)
+  // 일본주도 (+, -) NihonShudo, Sake Meter Value (SMV)
   "NihonShudo": 2,
   // 산도
   "Acidity": 1.4
