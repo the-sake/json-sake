@@ -3,6 +3,66 @@
     "brandKO": "쿠보타",
     "brandJA": "久保田",
     "brandEN": "KUBOTA",
+    "productKO": "셋포",
+    "productJA": "雪峰",
+    "productFU": "せっぽう",
+    "descriptionKO": "사계절의 자연 속에서 천천히 즐기시기 위한, 특별한 쿠보타입니다. 산 간이 주모이 가져오는 절묘하게 어우러진 사려 깊은 맛이 특징에서 개성적이고 소박 넘치는 아웃도어 요리에도 균형 잘 어울립니다.계절이나 기호에 맞춘 온도에서 즐길 수 있으며 식히면 날카로운 맛으로 끊이 있는 뒷맛이 따뜻하게 하면 순하고 개성적인 향미가 뛰어납니다.",
+    "classificationKO": "준마이다이긴죠(야마하이지코미)",
+    "classificationJA": "純米大吟醸（山廃仕込）",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "16%",
+    "sakeMeterValue": "+2",
+    "acidityLevel": "1.4",
+    "volumePrice": [
+      {
+        "volume": "500ml",
+        "price": "2,760円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "朝日酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_kubota_001"
+  },
+  {
+    "brandKO": "쿠보타",
+    "brandJA": "久保田",
+    "brandEN": "KUBOTA",
+    "productKO": "준마이다이긴죠",
+    "productJA": "純米大吟醸",
+    "productFU": "じゅんまいだいぎんじょう",
+    "descriptionKO": "서양배, 멜론을 생각하는 화려한 향기와 감미와 산미가 어우러진 우아한 맛은 입에 넣으면 향미가 확산되면서 뒷맛이 흐르는 듯한 여운이 기분 좋게 느껴집니다.",
+    "classificationKO": "준마이다이긴죠 6월・10월 한정판매",
+    "classificationJA": "純米大吟醸 6月・10月限定出荷",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "15%",
+    "sakeMeterValue": "±0",
+    "acidityLevel": "1.3",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "3,400円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,570円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "朝日酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_kubota_002"
+  },
+  {
+    "brandKO": "쿠보타",
+    "brandJA": "久保田",
+    "brandEN": "KUBOTA",
     "productKO": "만쥬",
     "productJA": "萬壽",
     "productFU": "まんじゅ",
@@ -16,14 +76,20 @@
     "sakeMeterValue": "+2",
     "acidityLevel": "1.2",
     "volumePrice": [
-      "1.8L 8,110円",
-      "720ml 3,640円"
+      {
+        "volume": "1800ml",
+        "price": "8,110円"
+      },
+      {
+        "volume": "720ml",
+        "price": "3,640円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_003"
   },
   {
     "brandKO": "쿠보타",
@@ -33,8 +99,8 @@
     "productJA": "翠寿",
     "productFU": "すいじゅ",
     "descriptionKO": "상큼하고 섬세한 느낌으로 빚어낸 다이긴죠 나마로, 화려한 향과 부드러운 맛이 인상적입니다.",
-    "classificationKO": "다이긴죠(나마) 4~9월 한정 출하",
-    "classificationJA": "大吟醸（生酒）",
+    "classificationKO": "다이긴죠(나마) 4~9월 한정출하",
+    "classificationJA": "大吟醸（生酒）4〜9月限定出荷",
     "ingredientsKO": "고햐쿠만고쿠",
     "ingredientsJA": "五百万石",
     "ricePolishingRate": "50%",
@@ -42,13 +108,16 @@
     "sakeMeterValue": "+4",
     "acidityLevel": "0.9",
     "volumePrice": [
-      "720ml 2,810円"
+      {
+        "volume": "720ml",
+        "price": "2,810円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_004"
   },
   {
     "brandKO": "쿠보타",
@@ -67,14 +136,20 @@
     "sakeMeterValue": "+2",
     "acidityLevel": "1.2",
     "volumePrice": [
-      "1.8L 5,030円",
-      "720ml 2,230円"
+      {
+        "volume": "1800ml",
+        "price": "5,030円"
+      },
+      {
+        "volume": "720ml",
+        "price": "2,230円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_005"
   },
   {
     "brandKO": "쿠보타",
@@ -93,14 +168,20 @@
     "sakeMeterValue": "+2",
     "acidityLevel": "1.1",
     "volumePrice": [
-      "1.8L 3,310円",
-      "720ml 1,500円"
+      {
+        "volume": "1800ml",
+        "price": "3,310円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,500円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_006"
   },
   {
     "brandKO": "쿠보타",
@@ -119,14 +200,20 @@
     "sakeMeterValue": "+5",
     "acidityLevel": "1.1",
     "volumePrice": [
-      "1.8L 2,430円",
-      "720ml 1,080円"
+      {
+        "volume": "1800ml",
+        "price": "2,430円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,080円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_007"
   },
   {
     "brandKO": "쿠보타",
@@ -136,7 +223,7 @@
     "productJA": "百寿",
     "productFU": "ひゃくじゅ",
     "descriptionKO": "향은 줄이고 드라이해서 싫증이 나지 않는 차분한 품질로 빚어낸 \"쿠보타 시리즈\"의 기본형입니다.",
-    "classificationKO": "특별 혼죠조",
+    "classificationKO": "토쿠베츠혼죠조",
     "classificationJA": "特別本醸造",
     "ingredientsKO": "고햐쿠만고쿠",
     "ingredientsJA": "五百万石",
@@ -145,14 +232,52 @@
     "sakeMeterValue": "+5",
     "acidityLevel": "1.0",
     "volumePrice": [
-      "1.8L 2,010円",
-      "720ml 920円"
+      {
+        "volume": "1800ml",
+        "price": "2,010円"
+      },
+      {
+        "volume": "720ml",
+        "price": "920円"
+      }
     ],
     "companyKO": "아사히주조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_kubota_008"
+  },
+  {
+    "brandKO": "쿠보타",
+    "brandJA": "久保田",
+    "brandEN": "KUBOTA",
+    "productKO": "나마겐슈",
+    "productJA": "生原酒",
+    "productFU": "なまげんしゅ",
+    "descriptionKO": "시보리타테의 전 국술 특유의 젊음과 상큼감, 그리고 원주 특유의 탄탄한 맛이 특징입니다.겨울만 한정 상품입니다.",
+    "classificationKO": "긴죠 (원주・생주) 1월한정출하",
+    "classificationJA": "吟醸（原酒・生酒）1月限定出荷",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "19%",
+    "sakeMeterValue": "+5",
+    "acidityLevel": "1.4",
+    "volumePrice": [
+      {
+        "volume": "1830ml",
+        "price": "3,120円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,400円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "朝日酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_kubota_009"
   },
   {
     "brandKO": "코시노칸바이",
@@ -161,7 +286,7 @@
     "productKO": "쵸토쿠센",
     "productJA": "超特撰",
     "productFU": "ちょうとくせん",
-    "descriptionJA": "精米歩合30％まで磨いた上位等級の山田錦をふんだんに使い、蔵人の技術と感性を駆使して造り上げた大吟醸酒。\n室温１℃の環境で約２年間熟成させることで、旨味と深みを充分に引き出してから出荷しています。\n品格のある吟醸香と繊細できれいな味、さらに飲んだ後に旨さが戻る「余韻」をお楽しみ頂けるのが特徴。冷やはもちろん、大吟醸ながら「ぬる燗」もおすすめです。",
+    "descriptionJA": "정비비율 30%까지 깍은 상위등급의 야마다니시키를 듬뿍 사용해서 주조 장인의 기술과 열정을 담아 빚은 다이긴죠입니다.\n실내온도 1℃의 환경에서 약 2년간 숙성시킴으로서 감칠맛과 깊이를 충분히 끌어낸 후에 출시하고 있습니다.\n품격있는 긴죠향과 섬세하고 깨끗한 맛, 더욱이 마신 후에 감칠맛이 맴도는 여운을 즐길 수 있는게 특징입니다. 차게 해서 마셔도 맛있고, 다이긴죠이면서도 누루깡으로 마셔도 맛있습니다.",
     "classificationKO": "다이긴죠",
     "classificationJA": "大吟醸",
     "ingredientsKO": "山田錦 （兵庫県三木市志染町産）",
@@ -171,14 +296,20 @@
     "sakeMeterValue": "+6",
     "acidityLevel": "비공개",
     "priceJA": [
-      "720ml 5,200円",
-      "500ml 3,670円"
+      {
+        "volume": "720ml",
+        "price": "5,200円"
+      },
+      {
+        "volume": "500ml",
+        "price": "3,670円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product01_001"
+    "imageURL": "p_koshino_001"
   },
   {
     "brandKO": "코시노칸바이",
@@ -187,7 +318,7 @@
     "productKO": "토쿠센",
     "productJA": "特撰",
     "productFU": "とくせん",
-    "descriptionJA": "ほのかな吟醸香があり、口当たりは軽く滑らか、飲み口が良く、後味に旨味が拡がる、ふくらみのある上品な味に仕上がっています。吟醸酒ですが、常温でも、ぬる燗でもよし。お酒が進んでも、最後まで変わらぬ味をお楽しみ頂ける、石本酒造自慢のお酒です。",
+    "descriptionJA": "은은한 긴죠향이 느껴지며, 첫맛은 가볍고 매끄러워서 마시기 쉬우며, 뒷맛은 입 안에서 퍼져서 우아하게 마무리됩니다. 긴죠주이지만 상온에서도 누루깡으로 따뜻하게 마셔도 좋습니다. 술이 들어가도 마지막까지 변함 없는 맛을 즐기실 수 있습니다. 石本주조의 자랑입니다.",
     "classificationKO": "긴죠",
     "classificationJA": "吟醸",
     "ingredientsKO": "山田錦 （兵庫県三木市志染町産）",
@@ -197,14 +328,20 @@
     "sakeMeterValue": "+8",
     "acidityLevel": "비공개",
     "priceJA": [
-      "1.8l 3,350円",
-      "720ml 1,675円"
+      {
+        "volume": "1800ml",
+        "price": "3,350円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,675円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product02_001"
+    "imageURL": "p_koshino_002"
   },
   {
     "brandKO": "코시노칸바이",
@@ -213,7 +350,7 @@
     "productKO": "벳센",
     "productJA": "別撰",
     "productFU": "べつせん",
-    "descriptionJA": "香り・味ともに軽やかな特徴を持つ酵母と、酒造好適米のみで醸される、軽快でスッキリした味が特徴です。「淡麗辛口」と呼ぶにふさわしく、常温や冷やで飲むと爽やか、ぬる燗では味の幅の拡がりをお楽しみ頂けます。何か良いことがあった時、ちょっと奮発したい、そんな時にぴったりの吟醸酒です。",
+    "descriptionJA": "향기와 맛 모두 경쾌한 특징을 가진 효모와 주적호적미으로만 빚어서, 경쾌하고 깔끔한 맛이 특징입니다.\n[담려가라구치]라고 부르기 걸맞게 상온이나 차게해서 마시면 아주 상쾌하며, 누루깡으로 따뜻하게 마시면 맛의 폭을 넓혀서 다양하게 즐길 수 있습니다.\n뭔가 좋을 일이 있을 때, 조금 분발하고 싶을 때, 그런 곳에 어울리는 술입니다.",
     "classificationKO": "긴죠",
     "classificationJA": "吟醸",
     "ingredientsKO": "고햐쿠만고쿠, 야마다니시키",
@@ -223,14 +360,20 @@
     "sakeMeterValue": "+7",
     "acidityLevel": "비공개",
     "volumePrice": [
-      "1.8l 2,540円",
-      "720ml 1,210円"
+      {
+        "volume": "1800ml",
+        "price": "2,540円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,210円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product05_001"
+    "imageURL": "p_koshino_003"
   },
   {
     "brandKO": "코시노칸바이",
@@ -239,7 +382,7 @@
     "productKO": "킨무쿠",
     "productJA": "金無垢",
     "productFU": "きんむく",
-    "descriptionJA": "精米歩合35％に磨いた山田錦を使った、ほのかな吟醸香と深く繊細な飲み口が特徴の純米大吟醸酒。\n熟成が進むほど味がのる「山田錦らしさ」を最も実感できるお酒に仕上げています。\n低温で充分に熟成させているので、ぬる燗で香りと味の広がりをお楽しみ頂くのが、一番のおすすめです。",
+    "descriptionJA": "정미비율 35%로 깍은 야마다니시키를 사용해서 은은한 긴죠향과 깊고 섬세한 입맛이 특징인 준마이다이긴죠입니다.\n숙성이 진행될 수록 맛이 오르는 [야마다니시키]를 최대한 실감할 수 있는 술입니다.\n저온에서 충분히 숙성시켰기 때문에 누루깡으로 향과 맛을 퍼짐을 즐기면서 마시는걸 권해드립니다.",
     "classificationKO": "준마이다이긴죠",
     "classificationJA": "純米大吟醸",
     "ingredientsKO": "야마다니시키",
@@ -249,14 +392,20 @@
     "sakeMeterValue": "+3",
     "acidityLevel": "비공개",
     "volumePrice": [
-      "1.8l 10,000円",
-      "720ml 4,300円"
+      {
+        "volume": "1800ml",
+        "price": "10,000円"
+      },
+      {
+        "volume": "720ml",
+        "price": "4,300円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product03_001"
+    "imageURL": "p_koshino_004"
   },
   {
     "brandKO": "코시노칸바이",
@@ -265,7 +414,7 @@
     "productKO": "무쿠",
     "productJA": "無垢",
     "productFU": "むく",
-    "descriptionJA": "精米歩合48％に磨いた山田錦を使用。米本来の旨味をしっかりと出している、越乃寒梅の純米大吟醸酒です。酸味を抑えた幅と厚みのある味わいが特徴で、とろりとした滑らかさと香りも大きな魅力で、ゆっくりと味わって頂きたいお酒です。",
+    "descriptionJA": "정미비율 48%로 깍은 야마다니시키를 사용하니다. 쌀 본래의 감칠맛을 제대로 살려낸 코시노칸바이의 준마이다이긴죠입니다. 산미를 억제한 폭과 깊이 있는 맛이 특징입니다. 걸쭉하며 매끄러운 향기 또한 큰 매력으로 천천히 즐길 수 있는 술입니다.",
     "classificationKO": "준마이다이긴죠",
     "classificationJA": "純米大吟醸",
     "ingredientsKO": "야마다니시키",
@@ -275,14 +424,20 @@
     "sakeMeterValue": "+4",
     "acidityLevel": "비공개",
     "volumePrice": [
-      "1.8l 3,800円",
-      "720ml 1,900円"
+      {
+        "volume": "1800ml",
+        "price": "3,800円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,900円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product04_001"
+    "imageURL": "p_koshino_005"
   },
   {
     "brandKO": "코시노칸바이",
@@ -291,7 +446,7 @@
     "productKO": "사이",
     "productJA": "灑",
     "productFU": "さい",
-    "descriptionJA": "精米歩合55%に磨いた五百万石と山田錦を使用。越乃寒梅らしい上品さ、キレの良さは、長年使い続け、その特性を熟知した酒造好適米を原料米に、吟醸造りでしっかりと低温熟成させたからこそ表現できる特徴です。\n日本酒をはじめて口にする人にもお楽しみいただけるよう、米の旨味を感じやすい純米酒でありながらも、ライトで飲みやすく、飽きの来ない味わいに仕上げております。\nどの温度帯でもお楽しみいただけますが、特に10度前後がおすすめです。",
+    "descriptionJA": "정미비율 55%로 깍아낸 고햐쿠만고쿠와 야마다니시키를 사용합니다. 코시노칸빠이의 고품질과 깔끔함은, 오랜시간 동안 이어와 그 특성을 숙지한 주적호적미를 원료에 긴죠방식으로 저온 숙성시킴으로서 표현 가능한 특징입니다.\n니혼슈를 처음 마셔보는 분들도 즐길 수 있도록 쌀의 감칠맛을 쉽게 느낄 수 있는 준마이면서도 가볍게 마쉴 수 있고 질리지 않는 맛을 완성했습니다.\n어떤 온도 범위에서도 즐길 수 있지만 특히 10도 전후를 추천합니다.",
     "classificationKO": "준마이긴죠",
     "classificationJA": "純米吟醸",
     "ingredientsKO": "고햐쿠만고쿠, 야마다니시키",
@@ -301,14 +456,20 @@
     "sakeMeterValue": "+2",
     "acidityLevel": "비공개",
     "priceJA": [
-      "1.8l 3,000円",
-      "720ml 1,500円"
+      {
+        "volume": "1800ml",
+        "price": "3,000円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,500円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product11_001"
+    "imageURL": "p_koshino_006"
   },
   {
     "brandKO": "코시노칸바이",
@@ -316,7 +477,8 @@
     "brandEN": "KOSHI NO KANBAI",
     "productKO": "시로라벨",
     "productJA": "白ラベル",
-    "descriptionJA": "目指すところは、「晩酌のお酒だからこそ『料理に寄り添い』『飽きずに楽しく飲め』『次の日に残らない』お酒」であること。\n普通酒と言えども、米を磨き吟醸造りの技術を基本に、低温で長期間じっくりと発酵させて丁寧に仕込んでおり、最も身近で飲み応えのあるお酒です。力強く抜群のキレ味から、常連のファンからは「尻ピンのお酒」とも呼ばれています。",
+    "productFU": "しろ",
+    "descriptionJA": "[저녁 반주술]을 목표로 개발된 술입니다. 어떤 요리와도 어울리고, 질리지 않고 매일 마실 수 있는 술! 다음날 숙취가 없는 술!\n보통주이지만 쌀을 긴죠방식으로 깍아서 저온에서 장시간 걸쳐서 천천히 발효 시켜 정성껏 빚었습니다.",
     "classificationKO": "후츠슈",
     "classificationJA": "普通酒",
     "ingredientsKO": "고햐쿠만고쿠",
@@ -326,13 +488,19 @@
     "sakeMeterValue": "+6",
     "acidityLevel": "비공개",
     "volumePrice": [
-      "1.8l 2,030円",
-      "720ml 960円"
+      {
+        "volume": "1800ml",
+        "price": "2,030円"
+      },
+      {
+        "volume": "720ml",
+        "price": "960円"
+      }
     ],
     "companyKO": "이시모토주조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "product06_001"
+    "imageURL": "p_koshino_007"
   }
 ]
