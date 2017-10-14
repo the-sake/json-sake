@@ -7,7 +7,7 @@
     "productJA": "雪峰",
     "productFU": "せっぽう",
     "descriptionKO": "사계절의 자연 속에서 천천히 즐기시기 위한, 특별한 쿠보타입니다. 산 간이 주모이 가져오는 절묘하게 어우러진 사려 깊은 맛이 특징에서 개성적이고 소박 넘치는 아웃도어 요리에도 균형 잘 어울립니다.계절이나 기호에 맞춘 온도에서 즐길 수 있으며 식히면 날카로운 맛으로 끊이 있는 뒷맛이 따뜻하게 하면 순하고 개성적인 향미가 뛰어납니다.",
-    "classificationKO": "준마이다이긴죠(야마하이지코미)",
+    "classificationKO": "준마이다이긴죠 (야마하이지코미)",
     "classificationJA": "純米大吟醸（山廃仕込）",
     "ingredientsKO": "고햐쿠만고쿠",
     "ingredientsJA": "五百万石",
@@ -25,7 +25,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_001"
+    "imageURL": "p_kubota_001.png"
   },
   {
     "brandKO": "쿠보타",
@@ -57,7 +57,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_002"
+    "imageURL": "p_kubota_002.png"
   },
   {
     "brandKO": "쿠보타",
@@ -89,7 +89,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_003"
+    "imageURL": "p_kubota_003.png"
   },
   {
     "brandKO": "쿠보타",
@@ -99,7 +99,7 @@
     "productJA": "翠寿",
     "productFU": "すいじゅ",
     "descriptionKO": "상큼하고 섬세한 느낌으로 빚어낸 다이긴죠 나마로, 화려한 향과 부드러운 맛이 인상적입니다.",
-    "classificationKO": "다이긴죠(나마) 4~9월 한정출하",
+    "classificationKO": "다이긴죠 (나마) 4~9월 한정출하",
     "classificationJA": "大吟醸（生酒）4〜9月限定出荷",
     "ingredientsKO": "고햐쿠만고쿠",
     "ingredientsJA": "五百万石",
@@ -117,7 +117,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_004"
+    "imageURL": "p_kubota_004.png"
   },
   {
     "brandKO": "쿠보타",
@@ -127,7 +127,7 @@
     "productJA": "碧寿",
     "productFU": "へきじゅ",
     "descriptionKO": "야마하이 술밑을 이용함으로써 맛에 깊이가 있으면서도 목넘김이 가벼운 준마이다이긴죠 술입니다.",
-    "classificationKO": "준마이다이긴죠(야마하이)",
+    "classificationKO": "준마이다이긴죠 (야마하이)",
     "classificationJA": "純米大吟醸（山廃仕込）",
     "ingredientsKO": "고햐쿠만고쿠",
     "ingredientsJA": "五百万石",
@@ -149,7 +149,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_005"
+    "imageURL": "p_kubota_005.png"
   },
   {
     "brandKO": "쿠보타",
@@ -181,7 +181,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_006"
+    "imageURL": "p_kubota_006.png"
   },
   {
     "brandKO": "쿠보타",
@@ -213,7 +213,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_007"
+    "imageURL": "p_kubota_007.png"
   },
   {
     "brandKO": "쿠보타",
@@ -245,7 +245,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_008"
+    "imageURL": "p_kubota_008.png"
   },
   {
     "brandKO": "쿠보타",
@@ -277,7 +277,7 @@
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_kubota_009"
+    "imageURL": "p_kubota_009.png"
   },
   {
     "brandKO": "코시노칸바이",
@@ -289,13 +289,13 @@
     "descriptionKO": "정비비율 30%까지 깍은 상위등급의 야마다니시키를 듬뿍 사용해서 주조 장인의 기술과 열정을 담아 빚은 다이긴죠입니다.\n실내온도 1℃의 환경에서 약 2년간 숙성시킴으로서 감칠맛과 깊이를 충분히 끌어낸 후에 출시하고 있습니다.\n품격있는 긴죠향과 섬세하고 깨끗한 맛, 더욱이 마신 후에 감칠맛이 맴도는 여운을 즐길 수 있는게 특징입니다. 차게 해서 마셔도 맛있고, 다이긴죠이면서도 누루깡으로 마셔도 맛있습니다.",
     "classificationKO": "다이긴죠",
     "classificationJA": "大吟醸",
-    "ingredientsKO": "山田錦 （兵庫県三木市志染町産）",
-    "ingredientsJA": "야마다니시키",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
     "ricePolishingRate": "30%",
     "alcoholByVolume": "16%",
     "sakeMeterValue": "+6",
     "acidityLevel": "비공개",
-    "priceJA": [
+    "volumePrice": [
       {
         "volume": "720ml",
         "price": "5,200円"
@@ -309,7 +309,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_001"
+    "imageURL": "p_koshino_001.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -321,13 +321,13 @@
     "descriptionKO": "은은한 긴죠향이 느껴지며, 첫맛은 가볍고 매끄러워서 마시기 쉬우며, 뒷맛은 입 안에서 퍼져서 우아하게 마무리됩니다. 긴죠주이지만 상온에서도 누루깡으로 따뜻하게 마셔도 좋습니다. 술이 들어가도 마지막까지 변함 없는 맛을 즐기실 수 있습니다. 石本주조의 자랑입니다.",
     "classificationKO": "긴죠",
     "classificationJA": "吟醸",
-    "ingredientsKO": "山田錦 （兵庫県三木市志染町産）",
-    "ingredientsJA": "야마다니시키",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
     "ricePolishingRate": "50%",
     "alcoholByVolume": "16%",
     "sakeMeterValue": "+8",
     "acidityLevel": "비공개",
-    "priceJA": [
+    "volumePrice": [
       {
         "volume": "1800ml",
         "price": "3,350円"
@@ -341,7 +341,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_002"
+    "imageURL": "p_koshino_002.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -354,7 +354,7 @@
     "classificationKO": "긴죠",
     "classificationJA": "吟醸",
     "ingredientsKO": "고햐쿠만고쿠, 야마다니시키",
-    "ingredientsJA": "五百万石（新潟県）, 山田錦(兵庫県三木市志染町産)",
+    "ingredientsJA": "五百万石, 山田錦",
     "ricePolishingRate": "55%",
     "alcoholByVolume": "16%",
     "sakeMeterValue": "+7",
@@ -373,7 +373,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_003"
+    "imageURL": "p_koshino_003.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -386,7 +386,7 @@
     "classificationKO": "준마이다이긴죠",
     "classificationJA": "純米大吟醸",
     "ingredientsKO": "야마다니시키",
-    "ingredientsJA": "山田錦（兵庫県三木市志染町産）",
+    "ingredientsJA": "山田錦",
     "ricePolishingRate": "35%",
     "alcoholByVolume": "16%",
     "sakeMeterValue": "+3",
@@ -405,7 +405,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_004"
+    "imageURL": "p_koshino_004.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -418,7 +418,7 @@
     "classificationKO": "준마이다이긴죠",
     "classificationJA": "純米大吟醸",
     "ingredientsKO": "야마다니시키",
-    "ingredientsJA": "山田錦（兵庫県三木市志染町産）",
+    "ingredientsJA": "山田錦",
     "ricePolishingRate": "48%",
     "alcoholByVolume": "16%",
     "sakeMeterValue": "+4",
@@ -437,7 +437,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_005"
+    "imageURL": "p_koshino_005.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -450,12 +450,12 @@
     "classificationKO": "준마이긴죠",
     "classificationJA": "純米吟醸",
     "ingredientsKO": "고햐쿠만고쿠, 야마다니시키",
-    "ingredientsJA": "五百万石（新潟県）, 山田錦(兵庫県三木市志染町産)",
+    "ingredientsJA": "五百万石, 山田錦",
     "ricePolishingRate": "55%",
     "alcoholByVolume": "15%",
     "sakeMeterValue": "+2",
     "acidityLevel": "비공개",
-    "priceJA": [
+    "volumePrice": [
       {
         "volume": "1800ml",
         "price": "3,000円"
@@ -469,7 +469,7 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_006"
+    "imageURL": "p_koshino_006.jpg"
   },
   {
     "brandKO": "코시노칸바이",
@@ -477,7 +477,7 @@
     "brandEN": "KOSHI NO KANBAI",
     "productKO": "시로라벨",
     "productJA": "白ラベル",
-    "productFU": "しろ",
+    "productFU": "しろらべる",
     "descriptionKO": "[저녁 반주술]을 목표로 개발된 술입니다. 어떤 요리와도 어울리고, 질리지 않고 매일 마실 수 있는 술! 다음날 숙취가 없는 술!\n보통주이지만 쌀을 긴죠방식으로 깍아서 저온에서 장시간 걸쳐서 천천히 발효 시켜 정성껏 빚었습니다.",
     "classificationKO": "후츠슈",
     "classificationJA": "普通酒",
@@ -501,6 +501,6 @@
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
-    "imageURL": "p_koshino_007"
+    "imageURL": "p_koshino_007.jpg"
   }
 ]
