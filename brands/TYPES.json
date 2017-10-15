@@ -1,74 +1,83 @@
 [
   {
-    "Type": "준마이다이긴죠",
-    "Kanji": "純米大吟醸",
-    "Furigana": "じゅんまいだいぎんじょう",
-    "Mean": "순미대음양",
-    "RicePolishingRate": "정미보합 50% 이하",
-    "Price": "2,500円 ~"
+    "nameKO": "준마이다이긴죠",
+    "nameJA": "純米大吟醸",
+    "furigana": "じゅんまいだいぎんじょう",
+    "mean": "순미대음양",
+    "description": "정미보합 50% 이하",
+    "price": "2,500円 ~",
+    "type": "junmai"
   },
   {
-    "Type": "다이긴죠",
-    "Kanji": "大吟醸",
-    "Furigana": "だいぎんじょう",
-    "Mean": "대음양",
-    "RicePolishingRate": "정미보합 50% 이하",
-    "Price": "2,500円 ~"
+    "nameKO": "준마이긴죠",
+    "nameJA": "純米吟醸",
+    "furigana": "じゅんまいぎんじょう",
+    "mean": "순미음양",
+    "description": "정미보합 60% 이하",
+    "price": "2,200 ~ 5,500円",
+    "type": "junmai"
   },
   {
-    "Type": "준마이긴죠",
-    "Kanji": "純米吟醸",
-    "Furigana": "じゅんまいぎんじょう",
-    "Mean": "순미음양",
-    "RicePolishingRate": "정미보합 60% 이하",
-    "Price": "2,200 ~ 5,500円"
+    "nameKO": "토쿠베츠준마이",
+    "nameJA": "特別純米",
+    "furigana": "とくべつじゅんまい",
+    "mean": "특별순미",
+    "description": "정미보합 60% 이하",
+    "price": "1,900 ~ 4,000円",
+    "type": "junmai"
   },
   {
-    "Type": "긴죠",
-    "Kanji": "吟醸",
-    "Furigana": "ぎんじょう",
-    "Mean": "음양",
-    "RicePolishingRate": "정미보합 60% 이하",
-    "Price": "2,000 ~ 5,000円"
+    "nameKO": "준마이",
+    "nameJA": "純米",
+    "furigana": "じゅんまい",
+    "mean": "순미",
+    "description": "규제없음",
+    "price": "1,700 ~ 3,600円",
+    "type": "junmai"
   },
   {
-    "Type": "토쿠베츠준마이",
-    "Kanji": "特別純米",
-    "Furigana": "とくべつじゅんまい",
-    "Mean": "특별순미",
-    "RicePolishingRate": "정미보합 60% 이하",
-    "Price": "1,900 ~ 4,000円"
+    "nameKO": "다이긴죠",
+    "nameJA": "大吟醸",
+    "furigana": "だいぎんじょう",
+    "mean": "대음양",
+    "description": "정미보합 50% 이하",
+    "price": "2,500円 ~",
+    "type": "honjozo"
   },
   {
-    "Type": "토쿠베츠혼죠조",
-    "Kanji": "特別本醸造",
-    "Furigana": "とくべつほんじょうぞう",
-    "Mean": "특별본양조",
-    "RicePolishingRate": "정미보합 60% 이하",
-    "Price": "1,600 ~ 3,500円"
+    "nameKO": "긴죠",
+    "nameJA": "吟醸",
+    "furigana": "ぎんじょう",
+    "mean": "음양",
+    "description": "정미보합 60% 이하",
+    "price": "2,000 ~ 5,000円",
+    "type": "honjozo"
   },
   {
-    "Type": "쥰마이",
-    "Kanji": "純米",
-    "Furigana": "じゅんまい",
-    "Mean": "순미",
-    "RicePolishingRate": "규제없음",
-    "Price": "1,700 ~ 3,600円"
+    "nameKO": "토쿠베츠혼죠조",
+    "nameJA": "特別本醸造",
+    "furigana": "とくべつほんじょうぞう",
+    "mean": "특별본양조",
+    "description": "정미보합 60% 이하",
+    "price": "1,600 ~ 3,500円",
+    "type": "honjozo"
   },
   {
-    "Type": "혼죠조",
-    "Kanji": "本醸造",
-    "Furigana": "ほんじょうぞう",
-    "Mean": "본양조",
-    "RicePolishingRate": "정미보합 70% 이하",
-    "Price": "1,200 ~ 3,500円"
+    "nameKO": "혼죠조",
+    "nameJA": "本醸造",
+    "furigana": "ほんじょうぞう",
+    "mean": "본양조",
+    "description": "정미보합 70% 이하",
+    "price": "1,200 ~ 3,500円",
+    "type": "honjozo"
   },
   {
-    "Type": "후츠슈",
-    "Kanji": "普通酒",
-    "Furigana": "ふつうしゅ",
-    "Mean": "보통주",
-    "RicePolishingRate": "규제없음",
-    "Price": "1,100 ~ 3,000円"
+    "nameKO": "후츠슈",
+    "nameJA": "普通酒",
+    "furigana": "ふつうしゅ",
+    "mean": "보통주",
+    "description": "규제없음",
+    "price": "1,100 ~ 3,000円",
+    "type": "futsushu"
   }
 ]
