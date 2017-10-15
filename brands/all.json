@@ -21,7 +21,7 @@
         "price": "2,760円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -41,7 +41,7 @@
     "ingredientsJA": "五百万石",
     "ricePolishingRate": "50%",
     "alcoholByVolume": "15%",
-    "sakeMeterValue": "±0",
+    "sakeMeterValue": "0",
     "acidityLevel": "1.3",
     "volumePrice": [
       {
@@ -53,7 +53,7 @@
         "price": "1,570円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -85,7 +85,7 @@
         "price": "3,640円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -113,7 +113,7 @@
         "price": "2,810円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -145,7 +145,7 @@
         "price": "2,230円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -177,7 +177,7 @@
         "price": "1,500円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -209,7 +209,7 @@
         "price": "1,080円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -241,7 +241,7 @@
         "price": "920円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -273,7 +273,7 @@
         "price": "1,400円"
       }
     ],
-    "companyKO": "아사히주조",
+    "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -305,7 +305,7 @@
         "price": "3,670円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -337,7 +337,7 @@
         "price": "1,675円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -369,7 +369,7 @@
         "price": "1,210円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -401,7 +401,7 @@
         "price": "4,300円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -433,7 +433,7 @@
         "price": "1,900円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -465,7 +465,7 @@
         "price": "1,500円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
@@ -497,10 +497,234 @@
         "price": "960円"
       }
     ],
-    "companyKO": "이시모토주조",
+    "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
     "locationKO": "니가타",
     "locationJA": "新潟県",
     "imageURL": "p_koshino_007.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "세이슈",
+    "productJA": "清酒",
+    "productFU": "せいしゅ",
+    "descriptionKO": "깔끔하고 드라이한 맛. 40% 깎아낸 긴조급 사케. 요리 맛을 방해하지 않음.",
+    "classificationKO": "후츠슈",
+    "classificationJA": "普通酒",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "60%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "+5",
+    "acidityLevel": "1.0",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "1,100円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_001.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "토쿠베츠혼죠조",
+    "productJA": "特別本醸造",
+    "productFU": "とくべつほんじょうぞう",
+    "descriptionKO": "사케의 기준이 되는 사케 라고 할만한 술. 질리지 않는 깔끔한 맛",
+    "classificationKO": "토쿠베츠혼죠조",
+    "classificationJA": "特別本醸造",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "55%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.0",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "1,300円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_002.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "토쿠베츠준마이",
+    "productJA": "特別純米",
+    "productFU": "とくべつじゅんまい",
+    "descriptionKO": "해외 판매 전용 사케. 볼륨감 있고 기품있는 향과 맛. 다양한 요리에 어울리도록 빚음.",
+    "classificationKO": "토쿠베츠준마이",
+    "classificationJA": "特別純米",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "60%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "-1",
+    "acidityLevel": "1.5",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "39,800원"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_003.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "긴죠",
+    "productJA": "吟醸",
+    "productFU": "ぎんじょう",
+    "descriptionKO": "Our brewery is covered by deep snow in the winter. This sake embodies the spirit of the clean, cold air during the winter season in that region. Experience the alluring aroma and gentle flavor on the palate. Supported by nature and our craftsman, the elegant flavor of Hakkaisan Ginjo enhances your enjoyment of seasonal dishes.",
+    "classificationKO": "긴죠",
+    "classificationJA": "吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "+5",
+    "acidityLevel": "1.0",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "1,900円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_004.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "준마이긴죠",
+    "productJA": "純米吟醸",
+    "productFU": "じゅんまいぎんじょう",
+    "descriptionKO": "쌀의 감칠맛. 부드러운 목넘김. 식중주",
+    "classificationKO": "준마이긴죠",
+    "classificationJA": "純米吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.2",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "2,100円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_005.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "다이긴죠",
+    "productJA": "大吟醸",
+    "productFU": "だいぎんじょう",
+    "descriptionKO": "군더더기가 없는 깔끔한 사케. 엄동설한에만 빚음(수량 한정). 부드럽고 풍부한 맛.",
+    "classificationKO": "다이긴죠",
+    "classificationJA": "大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "40%",
+    "alcoholByVolume": "15.5%",
+    "sakeMeterValue": "+5",
+    "acidityLevel": "1.0",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "4,980円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_006.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "에치고데소우로우",
+    "productJA": "越後で候",
+    "productFU": "えちごそうろう",
+    "descriptionKO": "(10월-3월한정) 일본에선 겨울철 한정판매. 갓 짜낸 생 원주. 19%로 느껴지지 않는 부드러움 신선함, 임팩트.",
+    "classificationKO": "후츠슈",
+    "classificationJA": "普通酒",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "60%",
+    "alcoholByVolume": "19%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.7",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "1,400円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_007.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "에치고데소우로우",
+    "productJA": "越後で候",
+    "productFU": "えちごそうろう",
+    "descriptionKO": "(12월한정) 1년에 단 한 번 한정판매. 갓 짜낸 생 원주. 부드러움, 신선함, 임팩트 세련된 감칠맛.",
+    "classificationKO": "준마이긴죠",
+    "classificationJA": "純米吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "17.5%",
+    "sakeMeterValue": "+0",
+    "acidityLevel": "1.8",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "2,280円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_008.jpg"
   }
 ]
