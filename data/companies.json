@@ -1,5 +1,62 @@
 [
   {
+    "brandKO": "쿠보타",
+    "brandJA": "久保田",
+    "brandEN": "KUBOTA",
+    "companyKO": "아사히슈조",
+    "companyJA": "朝日酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "links": {
+      "JA": "http://www.asahi-shuzo.co.jp/",
+      "EN": "http://www.asahi-shuzo.co.jp/en/",
+      "KO": "http://www.asahi-shuzo.co.jp/kr/"
+    },
+    "imageURL": "b_kubota_001.png"
+  },
+  {
+    "brandKO": "코시노칸바이",
+    "brandJA": "越乃寒梅",
+    "brandEN": "KOSHI NO KANBAI",
+    "companyKO": "이시모토슈조",
+    "companyJA": "石本酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "links": {
+      "JA": "http://koshinokanbai.co.jp/",
+      "EN": "http://koshinokanbai.com/"
+    },
+    "imageURL": "b_koshino_001.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "links": {
+      "JA": "http://www.hakkaisan.co.jp/",
+      "EN": "http://www.hakkaisan.com/"
+    },
+    "imageURL": "b_hakkaisan_001.jpg"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "links": {
+      "JA": "https://www.asahishuzo.ne.jp/",
+      "EN": "http://www.asahishuzo.ne.jp/en/"
+    },
+    "imageURL": "b_dassai_001.jpg"
+  },
+  {
     "company": "(주)젠니혼주류",
     "siteURL": "http://www.zennihon.co.kr/"
   },

@@ -677,7 +677,7 @@
     "brandEN": "HAKKAISAN",
     "productKO": "에치고데소우로우",
     "productJA": "越後で候",
-    "productFU": "えちごそうろう",
+    "productFU": "えちごでそうろう",
     "descriptionKO": "(10월-3월한정) 일본에선 겨울철 한정판매. 갓 짜낸 생 원주. 19%로 느껴지지 않는 부드러움 신선함, 임팩트.",
     "classificationKO": "후츠슈",
     "classificationJA": "普通酒",
@@ -705,7 +705,7 @@
     "brandEN": "HAKKAISAN",
     "productKO": "에치고데소우로우",
     "productJA": "越後で候",
-    "productFU": "えちごそうろう",
+    "productFU": "えちごでそうろう",
     "descriptionKO": "(12월한정) 1년에 단 한 번 한정판매. 갓 짜낸 생 원주. 부드러움, 신선함, 임팩트 세련된 감칠맛.",
     "classificationKO": "준마이긴죠",
     "classificationJA": "純米吟醸",
@@ -726,5 +726,221 @@
     "locationKO": "니가타",
     "locationJA": "新潟県",
     "imageURL": "p_hakkaisan_008.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "토쿠베츠준마이겐슈",
+    "productJA": "特別純米原酒",
+    "productFU": "とくべつじゅんまいげんしゅ",
+    "descriptionKO": "A selection of top premium sake rice is used to make this special Junmai Genshu, which has a mild but rich taste without any harsh flavor. Crafted with attention to detail and using a long fermentation period at a low temperature, this sake is best served chilled.",
+    "classificationKO": "토쿠베츠준마이",
+    "classificationJA": "特別純米",
+    "ingredientsKO": "고햐쿠만고쿠",
+    "ingredientsJA": "五百万石",
+    "ricePolishingRate": "55%",
+    "alcoholByVolume": "17.5%",
+    "sakeMeterValue": "+0",
+    "acidityLevel": "1.7",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "1,880円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_009.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "productKO": "유키모로쵸조산넹",
+    "productJA": "雪室貯蔵三年",
+    "productFU": "ゆきむろちょぞうさんねん",
+    "descriptionKO": "2013년에 완공한 [핫카이산 눈저장실]의 전용 탱크에서 3년간 순성시킨 준마이긴죠입니다. 눈저장 탱크의 안정적인 환경속에서 3년이라는 긴 시간 동안 저장을 하면 눈저장탱크 특유의 부드러운 맛이 태어납니다.",
+    "classificationKO": "준마이긴죠",
+    "classificationJA": "純米吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "17.0%",
+    "sakeMeterValue": "-1",
+    "acidityLevel": "1.5",
+    "volumePrice": [
+      {
+        "volume": "720ml",
+        "price": "3,980円"
+      }
+    ],
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "imageURL": "p_hakkaisan_010.jpg"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "productKO": "준마이다이긴죠 50",
+    "productJA": "純米大吟醸 50",
+    "productFU": "じゅんまいだいぎんじょう 50",
+    "descriptionKO": "정미배합 50%의 준마이다이긴죠. 품질에 타협이란 없음.",
+    "classificationKO": "준마이다이긴죠",
+    "classificationJA": "純米大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "50%",
+    "alcoholByVolume": "16.0%",
+    "sakeMeterValue": "+3",
+    "acidityLevel": "1.5",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "3,078円"
+      },
+      {
+        "volume": "720ml",
+        "price": "1,539円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "imageURL": "p_dassai_001.png"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "productKO": "미가키산와리큐부",
+    "productJA": "磨き三割九分",
+    "productFU": "みがきさんわりくぶ",
+    "descriptionKO": "정미배합 39%의 쥰마이다이긴죠. 향과 맛의 발군의 볼륨감",
+    "classificationKO": "준마이다이긴죠",
+    "classificationJA": "純米大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "39%",
+    "alcoholByVolume": "16.0%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.1",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "4,835円"
+      },
+      {
+        "volume": "720ml",
+        "price": "2,418円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "imageURL": "p_dassai_002.png"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "productKO": "미가키니와리산부",
+    "productJA": "磨き二割三分",
+    "productFU": "みがきにわりさんぶん",
+    "descriptionKO": "야마다니시키를 사용한 쥰마이다이긴죠 밖에 만들지 않는 닷사이 중의 닷사이.",
+    "classificationKO": "준마이다이긴죠",
+    "classificationJA": "純米大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "23%",
+    "alcoholByVolume": "15.0%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.1",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "10,285円"
+      },
+      {
+        "volume": "720ml",
+        "price": "5,142円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "imageURL": "p_dassai_003.png"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "productKO": "미가키산와리큐부 원심분리",
+    "productJA": "磨き三割九分 遠心分離",
+    "productFU": "みがきさんわりくぶ えんしんぶんり",
+    "descriptionKO": "무가압상태에서 술원액에서 술을 분리하기 때문에 쥰마이다이긴죠 원액이 본래 갖고 있는 향과 팽창감 등의 장점이 사라지지 않고 잘 표현되어 있음.",
+    "classificationKO": "준마이다이긴죠",
+    "classificationJA": "純米大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "39%",
+    "alcoholByVolume": "16.0%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.1",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "7,560円"
+      },
+      {
+        "volume": "720ml",
+        "price": "3,780円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "imageURL": "p_dassai_004.png"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "productKO": "미가키 니와리산부 원심분리",
+    "productJA": "磨き二割三分 遠心分離",
+    "productFU": "みがきにわりさんぶん えんしんぶんり",
+    "descriptionKO": "이 술은 원심분리 기술을 이용해 압력을 가하지 않고 짜낸 것과 통상의 술의 양조 방법인 압력을 가해서 짜낸 술을 섞은 것입니다. 원심분리의 장점인 잡스러운게 한점도 없는 술의 품질에 통상의 방법으로 짜내서 자극 있는 맛을 갖는 술의 품질을 합쳐서 세련된 화려함과 섬세함을 갖는 동시에 두터움과 복잡함이 나타나는 술입니다.",
+    "classificationKO": "준마이다이긴죠",
+    "classificationJA": "純米大吟醸",
+    "ingredientsKO": "야마다니시키",
+    "ingredientsJA": "山田錦",
+    "ricePolishingRate": "23%",
+    "alcoholByVolume": "15.0%",
+    "sakeMeterValue": "+4",
+    "acidityLevel": "1.1",
+    "volumePrice": [
+      {
+        "volume": "1800ml",
+        "price": "16,200円"
+      },
+      {
+        "volume": "720ml",
+        "price": "8,100円"
+      }
+    ],
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "imageURL": "p_dassai_005.png"
   }
 ]
