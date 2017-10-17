@@ -1,0 +1,63 @@
+[
+  {
+    "brandKO": "쿠보타",
+    "brandJA": "久保田",
+    "brandEN": "KUBOTA",
+    "companyKO": "아사히슈조",
+    "companyJA": "朝日酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "feature": "처음으로 니혼슈를 접한다면 쿠보타를 마셔라라는 표현이 말해주듯, 사케마니아는 물론이고 일반인들에게가지 폭넓은 인지도를 자랑하는 브랜드입니다. 맛이 달고 무겁던 사케들이 주류를 이루던 1970년대, 깔끔하고 쌉싸름한 타입이 유행할 것이란 판단에 '쿠보타' 시리즈를 투입하여 시장에 진입, 본고장인 니이가타는 물론이고 전국에 그 맛과 명성을 떨쳤습니다.",
+    "links": {
+      "JA": "http://www.asahi-shuzo.co.jp/",
+      "EN": "http://www.asahi-shuzo.co.jp/en/",
+      "KO": "http://www.asahi-shuzo.co.jp/kr/"
+    },
+    "imageURL": "b_kubota_001.jpg"
+  },
+  {
+    "brandKO": "코시노칸바이",
+    "brandJA": "越乃寒梅",
+    "brandEN": "KOSHI NO KANBAI",
+    "companyKO": "이시모토슈조",
+    "companyJA": "石本酒造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "feature": "지금은 흔한 개념이 되어버린 '지자케'. 즉 로컬 사케의 여명기를 견인하여 전국적인 지자케 붐으로 연결시킨 선구자이자 품질 최우선, 소량생산을 고집하여 처음으로 프리미엄이 붙어 거래된 사케가 바로 코시노칸바이입니다. 깔끔 쌉쌀함이라는 니가타 사케 특유의 바탕에 지나치지 않되 존재감 가득한 감칠맛을 곁들여 일찍부터 그 어느 양조장도 따라올 수 없는 고품질을 선보여, 정가보다 비싸게 거래됨에도 불구하고 소비자들에게 절대적인 지지를 받습니다.",
+    "links": {
+      "JA": "http://koshinokanbai.co.jp/",
+      "EN": "http://koshinokanbai.com/"
+    },
+    "imageURL": "b_koshino_001.jpg"
+  },
+  {
+    "brandKO": "핫카이산",
+    "brandJA": "八海山",
+    "brandEN": "HAKKAISAN",
+    "companyKO": "핫카이죠조",
+    "companyJA": "八海醸造",
+    "locationKO": "니가타",
+    "locationJA": "新潟県",
+    "feature": "일본 제일의 고시히카리 산지로 알려진 호설지대에서 빚어내는 니가타현을 대표하는 사케 '핫카이산'. 핫카이산은 굳은 의지로 일반 라인업의 품질을 조금이라도 개선하여 사케 표준을 높여가야 한다는 방침을 가지고 있으며 모든 보통주를 긴조 양조법으로, 모든 긴조슈는 다이긴조의 품질로, 다이긴조는 해를 거듭할수록 끝없는 최고 품질을 목표로 빚어내고 있습니다.",
+    "links": {
+      "JA": "http://www.hakkaisan.co.jp/",
+      "EN": "http://www.hakkaisan.com/"
+    },
+    "imageURL": "b_hakkaisan_001.jpg"
+  },
+  {
+    "brandKO": "닷사이",
+    "brandJA": "獺祭",
+    "brandEN": "DASSAI",
+    "companyKO": "아사히주조",
+    "companyJA": "旭酒造",
+    "locationKO": "야마구치",
+    "locationJA": "山口",
+    "feature": "",
+    "links": {
+      "JA": "https://www.asahishuzo.ne.jp/",
+      "EN": "http://www.asahishuzo.ne.jp/en/"
+    },
+    "imageURL": "b_dassai_001.jpg"
+  }
+]
