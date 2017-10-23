@@ -2,6 +2,7 @@
   {
     "brandKO": "쿠보타",
     "brandJA": "久保田",
+    "brandFU": "くぼた",
     "brandEN": "KUBOTA",
     "companyKO": "아사히슈조",
     "companyJA": "朝日酒造",
@@ -13,11 +14,29 @@
       "EN": "http://www.asahi-shuzo.co.jp/en/",
       "KO": "http://www.asahi-shuzo.co.jp/kr/"
     },
+    "ruby": [
+      {
+        "kanji": "久",
+        "furigana": "く",
+        "mean": "오랠 구"
+      },
+      {
+        "kanji": "保",
+        "furigana": "ほ",
+        "mean": "지킬 보"
+      },
+      {
+        "kanji": "田",
+        "furigana": "た",
+        "mean": "밭 전"
+      }
+    ],
     "imageURL": "b_kubota_001.jpg"
   },
   {
     "brandKO": "코시노칸바이",
     "brandJA": "越乃寒梅",
+    "brandFU": "こしのかんばい",
     "brandEN": "KOSHI NO KANBAI",
     "companyKO": "이시모토슈조",
     "companyJA": "石本酒造",
@@ -28,11 +47,34 @@
       "JA": "http://koshinokanbai.co.jp/",
       "EN": "http://koshinokanbai.com/"
     },
+    "ruby": [
+      {
+        "kanji": "越",
+        "furigana": "こし",
+        "mean": "넘을 월, 부들자리 활"
+      },
+      {
+        "kanji": "乃",
+        "furigana": "の",
+        "mean": "지킬 보"
+      },
+      {
+        "kanji": "寒",
+        "furigana": "かん",
+        "mean": "찰 한"
+      },
+      {
+        "kanji": "梅",
+        "furigana": "ばい",
+        "mean": "매화 매"
+      }
+    ],
     "imageURL": "b_koshino_001.jpg"
   },
   {
     "brandKO": "핫카이산",
     "brandJA": "八海山",
+    "brandFU": "はっかいさん",
     "brandEN": "HAKKAISAN",
     "companyKO": "핫카이죠조",
     "companyJA": "八海醸造",
@@ -43,21 +85,51 @@
       "JA": "http://www.hakkaisan.co.jp/",
       "EN": "http://www.hakkaisan.com/"
     },
+    "ruby": [
+      {
+        "kanji": "八",
+        "furigana": "はっ",
+        "mean": "여덟 팔"
+      },
+      {
+        "kanji": "海",
+        "furigana": "かい",
+        "mean": "바다 해"
+      },
+      {
+        "kanji": "山",
+        "furigana": "さん",
+        "mean": "메 산"
+      }
+    ],
     "imageURL": "b_hakkaisan_001.jpg"
   },
   {
     "brandKO": "닷사이",
     "brandJA": "獺祭",
+    "brandFU": "だっさい",
     "brandEN": "DASSAI",
     "companyKO": "아사히주조",
     "companyJA": "旭酒造",
     "locationKO": "야마구치",
     "locationJA": "山口",
-    "feature": "",
+    "feature": "생산하는 전 제품 최고의 주조미라고 알려진 야마다니시키를 사용한 준마이다이긴죠만을 고집하는 양조장으로, 니혼슈 본연의 향기를 살리기 위하여 압력을 가하지 않는 원심분리기 도입, 품질의 극대화를 도모하고 있는 브랜드입니다.",
     "links": {
       "JA": "https://www.asahishuzo.ne.jp/",
       "EN": "http://www.asahishuzo.ne.jp/en/"
     },
+    "ruby": [
+      {
+        "kanji": "獺",
+        "furigana": "だっ",
+        "mean": "수달 달"
+      },
+      {
+        "kanji": "祭",
+        "furigana": "さい",
+        "mean": "제사 제"
+      }
+    ],
     "imageURL": "b_dassai_001.jpg"
   }
 ]

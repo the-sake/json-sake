@@ -31,7 +31,7 @@
         "mean": "술 빚을 양"
       }
     ],
-    "description": "정미보합 50% 이하",
+    "description": "50% 이하",
     "price": "2,500円 ~",
     "type": "junmai"
   },
@@ -62,7 +62,7 @@
         "mean": "술 빚을 양"
       }
     ],
-    "description": "정미보합 60% 이하",
+    "description": "60% 이하",
     "price": "2,200 ~ 5,500円",
     "type": "junmai"
   },
@@ -93,7 +93,7 @@
         "mean": "쌀 미"
       }
     ],
-    "description": "정미보합 60% 이하 \n또는 특별한 제조 방법",
+    "description": "60% 이하 \n또는 특별한 제조 방법",
     "price": "1,900 ~ 4,000円",
     "type": "junmai"
   },
@@ -102,7 +102,6 @@
     "nameJA": "純米",
     "furigana": "じゅんまい",
     "mean": "순미",
-    "description": "규제없음",
     "ruby": [
       {
         "kanji": "純",
@@ -115,6 +114,7 @@
         "mean": "쌀 미"
       }
     ],
+    "description": "규제없음",
     "price": "1,700 ~ 3,600円",
     "type": "junmai"
   },
@@ -140,7 +140,7 @@
         "mean": "술 빚을 양"
       }
     ],
-    "description": "정미보합 50% 이하",
+    "description": "50% 이하",
     "price": "2,500円 ~",
     "type": "honjozo"
   },
@@ -161,7 +161,7 @@
         "mean": "술 빚을 양"
       }
     ],
-    "description": "정미보합 60% 이하",
+    "description": "60% 이하",
     "price": "2,000 ~ 5,000円",
     "type": "honjozo"
   },
@@ -197,7 +197,7 @@
         "mean": "지을 조"
       }
     ],
-    "description": "정미보합 60% 이하 \n또는 특별한 제조 방법",
+    "description": "60% 이하 \n또는 특별한 제조 방법",
     "price": "1,600 ~ 3,500円",
     "type": "honjozo"
   },
@@ -223,7 +223,7 @@
         "mean": "지을 조"
       }
     ],
-    "description": "정미보합 70% 이하",
+    "description": "70% 이하",
     "price": "1,200 ~ 3,500円",
     "type": "honjozo"
   },
